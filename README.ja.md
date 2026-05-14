@@ -10,6 +10,10 @@
 
 macOS 向け Vim / Neovim 用の、A3横向き・モノクロ印刷対応ショートカットシートです。
 
+## プレビュー
+
+![Vim キーボードショートカット プレビュー](images/vim_keyboard_shortcuts_macos_A3_preview.png)
+
 対象環境：
 
 - macOS Terminal
@@ -36,6 +40,7 @@ macOS 向け Vim / Neovim 用の、A3横向き・モノクロ印刷対応ショ�
 ## ファイル構成
 
 - `vim_keyboard_shortcuts_macos_A3.pdf`
+- `images/vim_keyboard_shortcuts_macos_A3_preview.png`
 - `README.md`
 - `README.ja.md`
 - `LICENSE`

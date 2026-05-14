@@ -10,6 +10,10 @@
 
 A monochrome A3 landscape reference sheet for Vim / Neovim users on macOS.
 
+## Preview
+
+![Vim Keyboard Shortcuts Preview](images/vim_keyboard_shortcuts_macos_A3_preview.png)
+
 Designed for:
 
 - macOS Terminal
@@ -41,6 +45,7 @@ This project focuses on:
 ## Files
 
 - `vim_keyboard_shortcuts_macos_A3.pdf`
+- `images/vim_keyboard_shortcuts_macos_A3_preview.png`
 - `README.md`
 - `README.ja.md`
 - `LICENSE`
