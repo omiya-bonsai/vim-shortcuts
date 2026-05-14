@@ -2,6 +2,12 @@
 
 [日本語README / Japanese README](README.ja.md)
 
+## Download
+
+- Direct PDF download:
+	https://raw.githubusercontent.com/omiya-bonsai/vim-shortcuts/main/vim_keyboard_shortcuts_macos_A3.pdf
+- If GitHub shows "Unable to render", use the direct download link above.
+
 A monochrome A3 landscape reference sheet for Vim / Neovim users on macOS.
 
 Designed for:

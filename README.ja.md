@@ -2,6 +2,12 @@
 
 [English README / 英語README](README.md)
 
+## ダウンロード
+
+- PDF 直リンク:
+	https://raw.githubusercontent.com/omiya-bonsai/vim-shortcuts/main/vim_keyboard_shortcuts_macos_A3.pdf
+- GitHub 上で "Unable to render" と表示される場合は、上の直リンクからダウンロードしてください。
+
 macOS 向け Vim / Neovim 用の、A3横向き・モノクロ印刷対応ショートカットシートです。
 
 対象環境：
